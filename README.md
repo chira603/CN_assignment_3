@@ -1,3 +1,19 @@
+# Question 1
+
+To run the code of question 1 you just have to run below command and it will run as expected
+
+```python
+sudo python3 question_1.py
+```
+
+# Question 2
+
+To run the code of question 2 you just have to run below command and it will run as expected
+
+```python
+sudo python3 question_2.py
+```
+
 # Computer Networks Assignment: Network Topology and Routing Algorithms
 
 ## 1. Overview
